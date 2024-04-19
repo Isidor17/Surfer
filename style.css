@@ -1,21 +1,22 @@
+/*
 .temoignages {
     display: flex; /* Utilisation de flexbox pour aligner les témoignages côte à côte */
-    justify-content: center; /* Centre les témoignages horizontalement */
-}
+  /*  justify-content: center; /* Centre les témoignages horizontalement */
+/*}
 
 .temoignage {
     margin: 20px; /* Espacement entre les témoignages */
-    text-align: center; /* Centre le contenu à l'intérieur du témoignage */
-}
+   /* text-align: center; /* Centre le contenu à l'intérieur du témoignage */
+/*}
 
 .temoignage img {
     width: 250px; /* Largeur des images */
-    height: auto; /* Hauteur ajustée automatiquement pour maintenir les proportions */
-    display: block; /* Pour supprimer l'espace sous l'image */
-    margin-bottom: 10px; /* Espacement entre l'image et le texte */
-}
+ /*   height: auto; /* Hauteur ajustée automatiquement pour maintenir les proportions */
+  /*  display: block; /* Pour supprimer l'espace sous l'image */
+    /*margin-bottom: 10px; /* Espacement entre l'image et le texte */
+/*}
 
 .temoignage p {
     font-size: 16px; /* Taille de la police pour la description */
-    color: #333; /* Couleur du texte */
-}
+  /*  color: #333; /* Couleur du texte */
+/*}
